@@ -67,7 +67,7 @@ h3 {
   padding: 0 15px; }
 
 header {
-  background-image: url("/assets/img/1920x1080/01.jpg");
+  background-image: url("../img/1920x1080/01.jpg");
   background-position: center;
   background-size: cover;
   margin: 0;
